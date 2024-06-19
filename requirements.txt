@@ -1,0 +1,4 @@
+pdf2image
+python-dotenv
+streamlit 
+google-generativeai
